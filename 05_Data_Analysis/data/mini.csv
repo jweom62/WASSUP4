@@ -1,4 +1,4 @@
-user_id,가입 기간 (월),마지막 로그인 시간(일),average_login_time,average_time_per_learning_session,monthly_active_learning_days,total_completed_courses,recent_learning_achievement,abandoned_learning_sessions,community_engagement_level,preferred_difficulty_level,subscription_type,customer_inquiry_history,payment_pattern,target
+user_id,subscription_duration,recent_login_time,average_login_time,average_time_per_learning_session,monthly_active_learning_days,total_completed_courses,recent_learning_achievement,abandoned_learning_sessions,community_engagement_level,preferred_difficulty_level,subscription_type,customer_inquiry_history,payment_pattern,target
 b919c29d,13,14,14.94616267,8.427187446,18,16,68.36045451,3,4,Low,Basic,4,5,0
 a0a60abb,16,18,18.45322373,72.64608659,16,13,97.5673218,2,3,Medium,Basic,1,6,1
 b9f171ae,22,1,16.19522797,21.7744924,13,14,94.35876337,3,4,Medium,Premium,0,7,1
